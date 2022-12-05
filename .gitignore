@@ -1,5 +1,6 @@
-# Resulting PT-tables
-PT_CALC
+# Resulting PT-tables and source HITRAN files
+HITRAN/*
+PT_CALC/*
 
 # Prerequisites
 *.d
